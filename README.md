@@ -3,6 +3,8 @@
 > 倾听……感受……思考……
 > ——然后 `git commit`。
 
+![](/ages.png)
+
 **NyaaCaster**，常用名 **Nyaa** —— 日语猫叫拟声词「nya~」的代码合规命名书写方式（毕竟变量名里不能直接喵）。
 
 🔗 GitHub：<https://github.com/NyaaCaster>
